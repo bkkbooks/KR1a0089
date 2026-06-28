@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1a0089/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0089_WYG_000-1a, image: WYG0027/WYG0027-0195a.png}
+body:
+  text: 周易參義易類提要臣等謹案周易參義十二卷元梁寅撰寅字孟敬新喻人元末辟集慶路儒學訓導以親老辭明年兵起遂𨼆居教授明初徵修禮樂書將授以官復以病辭歸結屋石門山學者稱曰梁五經著有詩書演義周禮考註春秋考義諸書此乃所作周易參義成於至元六年其大㫖以程𫝊主理本義主象稍有異同因融㑹參酌合以為一又旁采諸儒之説以闡發之其分上下經十翼一依古易篇次即朱子所用吕祖謙本其詮釋經義平易近人言理而不涉虚無言象而不涉附㑹大都本日用常行之事以示進退得失之機故簡切詳明迥異他家之轇轕雖未能剖析精微論其醇正要不愧為儒者之言焉乾隆四十五年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:fd6f63800778b6666ad21ee969b637ecc11d3e60234c36db9aeddbe5d641cea0
+metadata:
+  title: 周易參義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:57:14.310082'
+  source:
+    repository: kanripo
+    path: KR1a0089/KR1a0089_000.txt
+hash: sha256:c3114ec0c072f1c1a35f4352f8c4c10b223d47992eb8667b1098d89f265638de
